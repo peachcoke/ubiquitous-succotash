@@ -2,7 +2,6 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>I love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
@@ -30,7 +29,7 @@
     she wrote and starred in the critically acclaimed musical short Tropico,
     and performed "Young and Beautiful" for the romantic drama The Great Gatsby. 
     In 2014, she recorded "Once Upon a Dream" for the dark fantasy adventure film Maleficent 
-    and the self-titled theme song for the biopic Big Eyes. Del Rey collaborated with Ariana Grande 
+    and the self-titled theme song for the biopic Big Eyes. <b class="person">Del Rey</b> collaborated with Ariana Grande 
     and Miley Cyrus on <i class="song">"Don't Call Me Angel"</i> for the action comedy Charlie's Angels (2019), 
     which peaked at number 13 on the U.S. Billboard Hot 100, becoming her highest charting song. 
     Outside of music, Del Rey published the poetry and photography collection 
