@@ -2,7 +2,7 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-    <title>i love lana del rey</title>
+        <title>I love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
@@ -15,7 +15,7 @@
     including two Brit Awards, two MTV Europe Music Awards, a Satellite Award, and 
     received nominations for six Grammy Award and a Golden Globe Award.</p>
 
-    <p>Raised in upstate New York, <b class="person">Del Rey</b> moved to New York City in 2005 to pursue a music career. 
+<p>Raised in upstate New York, <b class="person">Del Rey</b> moved to New York City in 2005 to pursue a music career. 
     After numerous projects, including her self-titled debut studio album, Del Rey's breakthrough came in 
     2011 with the viral success of her single <i class="song">"Video Games"</i>; she subsequently signed a recording contract 
     with Polydor and Interscope. She achieved critical and commercial success with her second album, <i class="album">Born to Die (2012)</i>, 
@@ -26,7 +26,7 @@
     <i class="album">Norman Fucking Rockwell!</i> (2019), explored soft rock. <b class="person">Del Rey</b> followed this with the albums 
     <i class="album">Chemtrails over the Country Club</i> and <i class="album">Blue Banisters</i> , both in 2021.</p>
 
-    <p><b class="person">Del Rey</b> has collaborated on soundtracks for visual media; in 2013, 
+<p><b class="person">Del Rey</b> has collaborated on soundtracks for visual media; in 2013, 
     she wrote and starred in the critically acclaimed musical short Tropico,
     and performed "Young and Beautiful" for the romantic drama The Great Gatsby. 
     In 2014, she recorded "Once Upon a Dream" for the dark fantasy adventure film Maleficent 
@@ -36,6 +36,6 @@
     Outside of music, Del Rey published the poetry and photography collection 
     <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
 
-    <!-- this is a comment -->
+<!-- this is a comment -->
 </body>
 </html>
