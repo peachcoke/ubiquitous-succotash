@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <meta charset="utf-8">
+    <title>i love lana del rey</title>
+    <link rel="canonical"
+    href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
+</head>
+<body>
+<p><b class="person">Elizabeth Woolridge Grant</b> (born <time datetime="1985-06-21">June 21, 1985</time>), 
+    known professionally as <strong>Lana Del Rey</strong>, is an American <em>singer-songwriter</em> . 
+    Her music is noted for its cinematic quality and exploration of tragic romance,  
+    glamour, and melancholia, containing references to contemporary pop culture, 
+    as well as 1950s and 1960s Americana. She is the recipient of various accolades, 
+    including two Brit Awards, two MTV Europe Music Awards, a Satellite Award, and 
+    received nominations for six Grammy Award and a Golden Globe Award.</p>
 
-You can use the [editor on GitHub](https://github.com/peachcoke/ubiquitous-succotash/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <p>Raised in upstate New York, <b class="person">Del Rey</b> moved to New York City in 2005 to pursue a music career. 
+    After numerous projects, including her self-titled debut studio album, Del Rey's breakthrough came in 
+    2011 with the viral success of her single <i class="song">"Video Games"</i>; she subsequently signed a recording contract 
+    with Polydor and Interscope. She achieved critical and commercial success with her second album, <i class="album">Born to Die (2012)</i>, 
+    which contained the sleeper hit <i class="song">"Summertime Sadness"</i>. Del Rey's third album,<i class="album">Ultraviolence (2014)</i> , 
+    featured greater use of guitar-driven instrumentation and debuted atop the U.S. Billboard 200. 
+    Her fourth and fifth albums, <i class="album">Honeymoon</i> (2015) and <i class="album">Lust for Life</i> (2017), saw a return to the 
+    stylistic traditions of her earlier releases, while her critically acclaimed sixth album, 
+    <i class="album">Norman Fucking Rockwell!</i> (2019), explored soft rock. <b class="person">Del Rey</b> followed this with the albums 
+    <i class="album">Chemtrails over the Country Club</i> and <i class="album">Blue Banisters</i> , both in 2021.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <p><b class="person">Del Rey</b> has collaborated on soundtracks for visual media; in 2013, 
+    she wrote and starred in the critically acclaimed musical short Tropico,
+    and performed "Young and Beautiful" for the romantic drama The Great Gatsby. 
+    In 2014, she recorded "Once Upon a Dream" for the dark fantasy adventure film Maleficent 
+    and the self-titled theme song for the biopic Big Eyes. Del Rey collaborated with Ariana Grande 
+    and Miley Cyrus on <i class="song">"Don't Call Me Angel"</i> for the action comedy Charlie's Angels (2019), 
+    which peaked at number 13 on the U.S. Billboard Hot 100, becoming her highest charting song. 
+    Outside of music, Del Rey published the poetry and photography collection 
+    <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peachcoke/ubiquitous-succotash/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <!-- this is a comment -->
+</body>
+</html>
