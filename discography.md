@@ -6,7 +6,7 @@
 </head>
 <body>
     <main>
-<h1>Discrography</h1>
+<h1>Discography</h1>
     <table>
         <tr>
             <td>Albums</td>
