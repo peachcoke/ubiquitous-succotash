@@ -1,4 +1,12 @@
-    <h1>Discrography</h1>
+<html lang="en"> 
+    <head>
+        <meta charset="utf-8">
+    <link rel="canonical"
+    href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
+</head>
+<body>
+    <main>
+<h1>Discrography</h1>
     <table>
         <tr>
             <td>Albums</td>
@@ -34,3 +42,12 @@
         </tr>
     </table>
 </p>
+</main>
+<footer>
+  <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
+    on <time>10 March 2022</time> under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
+    Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
+  </p>
+</footer>
+</body>
+</hmtl>
