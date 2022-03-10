@@ -46,7 +46,7 @@
     <h2>Artistry</h2>
     <h3>Musical style</h3>
     <h3>Influences</h3>
-    <h2><a href="discography.html">Discrography</a></h2>
+    <h2><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discrography</a></h2>
 <a href="#discrography">Jump to Discrography</a>
 </p>
 
@@ -79,43 +79,6 @@
 </p>
 
 <p>
-    <h1>Discrography</h1>
-    <table>
-        <tr>
-            <td>Albums</td>
-            <td>Release year</td>
-        </tr>
-        <tr>
-        <td>Born to Die</td> 
-        <td>2012</td>
-        </tr>
-        <tr>
-            <td>Ultraviolence</td>
-            <td>2014</td>
-        </tr>
-        <tr>
-            <td>Honeymoon</td>
-            <td>2015</td>
-        </tr>
-        <tr>
-            <td>Lust for Life</td>
-            <td>2017</td>
-        </tr>
-        <tr>
-            <td>Norman Fucking Rockwell!</td>
-            <td>2019</td>
-        </tr>
-        <tr>
-            <td>Chemtrails over the Country Club</td>
-            <td>2021</td>
-        </tr>
-        <tr>
-            <td>Blue Banisters</td>
-            <td>2021</td>
-        </tr>
-    </table>
-</p>
-
 <aside>
     <h1>Lana Del Rey's social media accounts</h1>
     <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
