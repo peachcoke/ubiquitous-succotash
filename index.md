@@ -2,7 +2,6 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>i love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
@@ -38,8 +37,7 @@
     which peaked at number 13 on the U.S. Billboard Hot 100, becoming her highest charting song. 
     Outside of music, Del Rey published the poetry and photography collection 
     <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
-    </section>
- 
+        </section>
     </main>
 <p>
     <h1>Contents</h1>
