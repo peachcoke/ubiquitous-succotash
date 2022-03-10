@@ -33,14 +33,15 @@
     which peaked at number 13 on the U.S. Billboard Hot 100, becoming her highest charting song. 
     Outside of music, Del Rey published the poetry and photography collection 
     <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
-    
+   
+<p>
     <h1>Contents</h1>
     <h2>Life and career</h2>
     <h3>Early life</h3>
     <h3>Breakthrough with Born to Die</h3>
     <h2>Artistry</h2>
     <h3>Musical style</h3>
-    <h3>Influences</h3>
+    <h3>Influences</h3> </p>
     
 The text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post.</a>
 
