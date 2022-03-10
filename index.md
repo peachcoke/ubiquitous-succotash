@@ -46,7 +46,8 @@
     <h2>Artistry</h2>
     <h3>Musical style</h3>
     <h3>Influences</h3>
-    <h2>Discrography</h2></p>
+    <h2><a href="discography.html">Discrography</a></h2>
+<a href="#discrography">Jump to Discrography</a>
 
 <p>
     <h1>Discrography</h1>
