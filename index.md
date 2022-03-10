@@ -86,6 +86,12 @@
     </table>
 </p>
 
+<aside>
+    <h1>Lana Del Rey's social media accounts</h1>
+    <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
+    </p>
+</aside>
+
    the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
 
 <!-- this is a comment -->
