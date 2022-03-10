@@ -122,9 +122,12 @@
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
 </aside>
-
-   the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
-
+<footer>
+  <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
+    on <time>10 March 2022</time> under the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_2.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>
+    Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
+  </p>
+</footer>
 <!-- this is a comment -->
 </body>
 </html>
