@@ -1,10 +1,15 @@
+<!DOCTYPE html>
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
+        <title>i love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
 <body>
+    <main>
+        <h1>Lana Del Rey</h1>
+<section id="Lana Del Rey">
 <p><b class="person">Elizabeth Woolridge Grant</b> (born <time datetime="1985-06-21">June 21, 1985</time>), 
     known professionally as <strong>Lana Del Rey</strong>, is an American <em>singer-songwriter</em> . 
     Her music is noted for its cinematic quality and exploration of tragic romance,  
@@ -33,7 +38,9 @@
     which peaked at number 13 on the U.S. Billboard Hot 100, becoming her highest charting song. 
     Outside of music, Del Rey published the poetry and photography collection 
     <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
-   
+    </section>
+ 
+    </main>
 <p>
     <h1>Contents</h1>
     <h2>Life and career</h2>
@@ -48,8 +55,8 @@
     <h1>Discrography</h1>
     <table>
         <tr>
-            <td>Albums</td>
-            <td>Release year</td>
+            <td>albums</td>
+            <td>release year</td>
         </tr>
         <tr>
         <td>Born to Die</td> 
@@ -81,9 +88,12 @@
         </tr>
     </table>
 </p>
-    
-The text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post.</a>
+
+   the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
 
 <!-- this is a comment -->
 </body>
 </html>
+
+
+
