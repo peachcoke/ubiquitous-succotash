@@ -46,8 +46,8 @@
     <h2>Artistry</h2>
     <h3>Musical style</h3>
     <h3>Influences</h3>
-    <h2><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discrography</a></h2>
-<a href="#discrography">Jump to Discrography</a>
+    <h2><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discography</a></h2>
+<a href="#discrography">Jump to Discography</a>
 </p>
 
 <p>
@@ -78,7 +78,7 @@
 </blockquote>
 </p>
 <p>
-    <h1>Discrography</h1>
+    <h1>Discography</h1>
     <table>
         <tr>
             <td>Albums</td>
