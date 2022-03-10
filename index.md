@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
@@ -53,8 +52,8 @@
     <h1>Discrography</h1>
     <table>
         <tr>
-            <td>albums</td>
-            <td>release year</td>
+            <td>Albums</td>
+            <td>Release year</td>
         </tr>
         <tr>
         <td>Born to Die</td> 
