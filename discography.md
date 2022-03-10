@@ -41,7 +41,7 @@
             <td>2021</td>
         </tr>
     </table>
-        This table only includes her released Albums under the name of Lana Dey Rey. None of her unreleased songs are included.
+        This table only includes her released albums under the name of Lana Dey Rey. None of her unreleased songs are included.
 </p>
 </main>
 <footer>
