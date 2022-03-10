@@ -55,6 +55,30 @@
         <td>Born to Die</td> 
         <td>2012</td>
         </tr>
+        <tr>
+            <td>Ultraviolence</td>
+            <td>2014</td>
+        </tr>
+        <tr>
+            <td>Honeymoon</td>
+            <td>2015</td>
+        </tr>
+        <tr>
+            <td>Lust for Life</td>
+            <td>2017</td>
+        </tr>
+        <tr>
+            <td>Norman Fucking Rockwell!</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>Chemtrails over the Country Club</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td>Blue Banisters</td>
+            <td>2021</td>
+        </tr>
     </table>
 </p>
     
