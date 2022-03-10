@@ -89,6 +89,7 @@
 <aside>
     <h1>Lana Del Rey's social media accounts</h1>
     <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
+        She unfortunately deleted her Twitter account and her public Instagram account. 
     </p>
 </aside>
 
