@@ -41,7 +41,22 @@
     <h3>Breakthrough with Born to Die</h3>
     <h2>Artistry</h2>
     <h3>Musical style</h3>
-    <h3>Influences</h3> </p>
+    <h3>Influences</h3>
+    <h2>Discrography</h2></p>
+
+<p>
+    <h1>Discrography</h1>
+    <table>
+        <tr>
+            <td>albums</td>
+            <td>release year</td>
+        </tr>
+        <tr>
+        <td>Born to Die</td> 
+        <td>2012</td>
+        </tr>
+    </table>
+</p>
     
 The text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post.</a>
 
