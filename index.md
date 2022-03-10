@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>i love lana del rey</title>
+<title>i love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
@@ -39,7 +38,6 @@
     Outside of music, Del Rey published the poetry and photography collection 
     <i class="book">Violet Bent Backwards over the Grass</i> (2020).</p>    
     </section>
- 
     </main>
 <p>
     <h1>Contents</h1>
@@ -121,6 +119,7 @@
 <aside>
     <h1>Lana Del Rey's social media accounts</h1>
     <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
+        She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
 </aside>
 
