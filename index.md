@@ -1,7 +1,6 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-<title>i love lana del rey</title>
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
 </head>
