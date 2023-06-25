@@ -9,8 +9,8 @@
 <h1>Discography</h1>
     <table>
         <tr>
-            <td>Albums</td>
-            <td>Release year</td>
+            <td><strong>Albums</strong></td>
+            <td><strong>Release year</strong></td>
         </tr>
         <tr>
         <td>Born to Die</td> 
@@ -39,6 +39,10 @@
         <tr>
             <td>Blue Banisters</td>
             <td>2021</td>
+        </tr>
+        <tr>
+            <td>Did you know that there is a Tunnel under Ocean Boulevard</td>
+            <td>2023</td>
         </tr>
     </table>
         This table only includes her released albums under the name of Lana Dey Rey. None of her unreleased songs are included.</p>
