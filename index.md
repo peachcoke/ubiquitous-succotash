@@ -5,6 +5,10 @@
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
         <p style="color: #E4717A">This Text is pink!</p>
 </head>
+    	<header role="banner" class="banner" id="banner" tabindex="-1">
+			<h1><a href="index.html">Lana Del Rey</a></h1>
+			<a id="nav-jump" href="#menu"><b class="hidden">Jump to the</b> Menu</a>
+		</header>
 <body>
     <main>
         <h1>Lana Del Rey</h1>
@@ -140,6 +144,15 @@
         </figcaption>
     </figure>
 </aside>
+	<nav id="menu" tabindex="-1" role="navigation">
+			<h1 class="hidden">More:</h1>
+			<ul>
+				<li><a style="color: #E4717A" href="index.html"><b class="hidden">Back to the start</a></li>
+				<li><a style="color: #E4717A" href="life.html">The life of Lana Del Rey</a></li>
+				<li><a style="color: #E4717A" href="discography.html">Explore the discography of Lana Del Rey</a></li>
+			</ul>
+			<a id="menu-close" href="#banner"><b class="hidden">Return to the content</b></a>
+		</nav>
 <footer role="contentinfo">
   <p> the text for this site was taken from <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
     on <time>10 March 2022</time> under the <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
