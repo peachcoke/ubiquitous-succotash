@@ -3,6 +3,7 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
+        <meta name="color:Background" content="#F4C2C2"/>
 </head>
 <body>
     <main>
@@ -52,6 +53,7 @@
 
 <p>
     <h1>Life and Career</h1>
+    <section id="life">
     <h2>Early life</h2>
     Elizabeth Woolridge Grant was born on June 21, 1985, in Manhatten, New York City,
     to Robert England Grant Jr. and Patricia Ann. She has a younger sister, Caroline, 
@@ -77,6 +79,11 @@
     </p>
 </blockquote>
 </p>
+<details>
+    <summary>Further readings</summary>
+    <p>insert a very insightful text here</p>
+</details>
+    </section>
 <p>
     <h1>Discography</h1>
     <table>
@@ -125,15 +132,19 @@
     <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
-    <figure>
-        <img scr="https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
-            scrset="https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 568w,
-            https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 300w"
+    <figure id="fig-1">
+        <img scr="img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
+            scrset="img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 568w,
+            img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 300w"
             sizes="(min-width:60em) 33vw,
             (min-width:40.5em) 50vw, 100vw">
+        <figcaption>
+            <p><i class="person">Lana Del Rey</i> in <i class="location">Seattle</i>
+            </p>
+        </figcaption>
     </figure>
 </aside>
-<footer>
+<footer role="contentinfo">
   <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
     on <time>10 March 2022</time> under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
     Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
