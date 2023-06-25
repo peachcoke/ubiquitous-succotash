@@ -74,7 +74,7 @@
         crisis. I couldn't believe that we were mortal. For some reason that knowledge sort of
         overshadowed my experience. I was unhappy for some time. I got into a lot of trouble.
         I used to drink a lot. That was a hard time of my life.
-        <a href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
+        <a style="color: pink" href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
     </p>
 </blockquote>
 <details>
@@ -85,10 +85,10 @@
 <p>
     <h1>Discography</h1>
     <table>
-        <caption>All of Lana Del Rey's released albums</caption>
+        <caption>All of Lana Del Rey's released albums:</caption>
         <tr>
-            <td>Albums</td>
-            <td>Release year</td>
+            <td><strong>Albums</strong></td>
+            <td><strong>Release year</strong></td>
         </tr>
         <tr>
         <td>Born to Die</td> 
@@ -127,7 +127,7 @@
 <p>
 <aside>
     <h1>Lana Del Rey's social media accounts</h1>
-    <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
+    <p> Her Instagram account <a style="color: pink" href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
     <figure id="fig-1">
@@ -141,8 +141,8 @@
     </figure>
 </aside>
 <footer role="contentinfo">
-  <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
-    on <time>10 March 2022</time> under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
+  <p> the text for this site was taken from <a style="color: pink" href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
+    on <time>10 March 2022</time> under the <a style="color: pink" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
     Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
   </p>
 </footer>
