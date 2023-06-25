@@ -3,10 +3,9 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
-        <meta name="color:Background" content="#f4c2c2"/>
-        <meta name="color:Title" content="#000000"/>
-        <meta name="color:Text" content="#000000"/>
-        <meta name="color:Link" content="#cd5c5c"/>
+a {
+    color: red;
+}
 </head>
 <body>
     <main>
@@ -134,11 +133,9 @@
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
     <figure id="fig-1">
-        <img scr="img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
-            scrset="img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 568w,
-            img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 300w"
-            sizes="(min-width:60em) 33vw,
-            (min-width:40.5em) 50vw, 100vw">
+        <img scr="https://www.hawtcelebs.com/wp-content/uploads/2019/10/lana-del-rey-at-107.7-the-end-in-seattle-10-02-2019-10.jpg" alt=""
+            scrset="https://www.hawtcelebs.com/wp-content/uploads/2019/10/lana-del-rey-at-107.7-the-end-in-seattle-10-02-2019-10.jpg 1200w"
+            sizes="(min-width:1200px) 600px 50%" alt="">
         <figcaption>
             <p><i class="person">Lana Del Rey</i> in <i class="location">Seattle</i>
             </p>
