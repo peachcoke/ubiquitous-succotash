@@ -3,6 +3,7 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
+        <p style="color: skyblue">Welcome to freeCodeCamp!</p>
 </head>
 <body>
     <main>
