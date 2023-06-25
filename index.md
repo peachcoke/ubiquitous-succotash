@@ -44,14 +44,13 @@
     </main>
 <p>
     <h1>Contents</h1>
-    <h2><a href="https://peachcoke.github.io/ubiquitous-succotash/life">Life and career</a></h2>
+    <h3><a href="https://peachcoke.github.io/ubiquitous-succotash/Life">Life and career</a></h3>
     <h3>Early life</h3>
     <h3>Breakthrough with Born to Die</h3>
-    <h2>Artistry</h2>
+    <h3>Artistry</h3>
     <h3>Musical style</h3>
     <h3>Influences</h3>
-    <h2><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discography</a></h2>
-<a href="#discrography">Jump to Discography</a>
+    <h3><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discography</a></h3>
 </p>
 
 <p>
