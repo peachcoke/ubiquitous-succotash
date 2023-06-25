@@ -151,6 +151,3 @@
     Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
   </p>
 </footer>
-<!-- this is a comment -->
-</body>
-</html>
