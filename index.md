@@ -80,6 +80,7 @@
 <p>
     <h1>Discography</h1>
     <table>
+        <caption>All of Lana Del Rey's released albums</caption>
         <tr>
             <td>Albums</td>
             <td>Release year</td>
@@ -112,6 +113,10 @@
             <td>Blue Banisters</td>
             <td>2021</td>
         </tr>
+        <tr>
+            <td>Did you know that there's a Tunnel under Ocean Boulevard</td>
+            <td>2023</td>
+        </tr>
     </table>
 </p>
 <p>
@@ -130,6 +135,3 @@
 <!-- this is a comment -->
 </body>
 </html>
-
-
-
