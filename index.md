@@ -47,7 +47,7 @@
     <h3>Artistry</h3>
     <h3>Musical style</h3>
     <h3>Influences</h3>
-    <h3><a href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discography</a></h3>
+    <h3><a style="color: pink" href="https://peachcoke.github.io/ubiquitous-succotash/discography">Discography</a></h3>
 </p>
 
 <p>
