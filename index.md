@@ -3,9 +3,6 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
-a {
-    color: red;
-}
 </head>
 <body>
     <main>
