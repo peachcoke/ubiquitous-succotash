@@ -3,7 +3,10 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
-        <meta name="color:Background" content="#F4C2C2"/>
+        <meta name="color:Background" content="#f4c2c2"/>
+        <meta name="color:Title" content="#000000"/>
+        <meta name="color:Text" content="#000000"/>
+        <meta name="color:Link" content="#cd5c5c"/>
 </head>
 <body>
     <main>
@@ -78,7 +81,6 @@
         <a href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
     </p>
 </blockquote>
-</p>
 <details>
     <summary>Further readings</summary>
     <p>insert a very insightful text here</p>
