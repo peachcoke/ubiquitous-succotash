@@ -31,7 +31,6 @@
         <a href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
     </p>
 </blockquote>
-</p>
   </main>
   <footer>
       <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
