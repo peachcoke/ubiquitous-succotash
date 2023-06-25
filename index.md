@@ -44,7 +44,7 @@
     </main>
 <p>
     <h1>Contents</h1>
-    <h3><a href="https://peachcoke.github.io/ubiquitous-succotash/Life">Life and career</a></h3>
+    <h3><a href="https://peachcoke.github.io/ubiquitous-succotash/life">Life and career</a></h3>
     <h3>Early life</h3>
     <h3>Breakthrough with Born to Die</h3>
     <h3>Artistry</h3>
