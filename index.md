@@ -125,6 +125,13 @@
     <p> Her Instagram account <a href="https://instagram.com/honeymoon/">Honeymoon on Instagram</a>
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
+    <figure>
+        <img scr="https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
+            scrset="https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 568w,
+            https://img.welt.de/img/kultur/mobile208236547/4592509717-ci102l-w1024/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 300w"
+            sizes="(min-width:60em) 33vw,
+            (min-width:40.5em) 50vw, 100vw">
+    </figure>
 </aside>
 <footer>
   <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
