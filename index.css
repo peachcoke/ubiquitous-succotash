@@ -1,0 +1,21 @@
+stylesheet
+body {
+    background-color: #F4C2C2;
+  }
+  
+  h1 {
+    color: #CC4E5C;
+    margin-left: 20px;
+  }
+  :hover { 
+      background:#ee7b89;
+    }
+  :focus {
+      background: #ee7b89;
+  }
+  :active {
+      background: #CC4E5C;
+  }
+  :visited {
+      background: #CC4E5C;
+  }
