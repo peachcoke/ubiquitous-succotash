@@ -3,7 +3,7 @@
         <meta charset="utf-8">
     <link rel="canonical"
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey"/>
-	    <link rel=stylesheet" href="index.css" type=text/>
+	    <link rel="stylesheet" href="index.css" type=text/>
         <p style="color: #E4717A">This Text is pink!</p>
 </head>
 <body>
