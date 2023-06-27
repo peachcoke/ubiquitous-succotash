@@ -132,11 +132,11 @@
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
     <figure id="fig-1">
-        <img scr="./images/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
-            scrset="./images/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 1200w"
+        <img scr="./images/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.JPG" alt=""
+            scrset="./images/Lana-Del-Rey-visits-107-7-The-End-in-Seattle.JPG 1200w"
             sizes="(min-width:1200px) 600px 50%" alt="">
         <figcaption>
-            <p><i class="person">Lana Del Rey</i> in <i class="location">Seattle</i>Source:Quelle: Getty Images Entertainment/Getty
+            <p><i class="person">Lana Del Rey</i> in <i class="location">Seattle</i> Source:Quelle: Getty Images Entertainment/Getty
             </p>
         </figcaption>
     </figure>
