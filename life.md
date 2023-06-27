@@ -28,13 +28,13 @@
         crisis. I couldn't believe that we were mortal. For some reason that knowledge sort of
         overshadowed my experience. I was unhappy for some time. I got into a lot of trouble.
         I used to drink a lot. That was a hard time of my life.
-        <a href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
+        <a style="color: #E4717A" href="https://www.telegraph.co.uk/culture/music/rockandpopfeatures/9027984/Lana-Del-Rey-interview-new-album-Born-to-Die-is-a-beautiful-thing.html">Interview with telegraph</a>
     </p>
 </blockquote>
   </main>
   <footer>
-      <p> the text for this site was taken from <a href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
-    on <time>10 March 2022</time> under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
+      <p> the text for this site was taken from <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
+    on <time>10 March 2022</time> under the <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
     Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
   </p>
 </footer>
