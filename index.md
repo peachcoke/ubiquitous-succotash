@@ -143,7 +143,7 @@
 	<nav id="menu" tabindex="-1" role="navigation">
 			<h1 class="hidden">More:</h1>
 			<ul>
-				<li><a style="color: #E4717A" href="index.html"><b class="hidden">Back to the start</a></li>
+				<li><a style="color: #E4717A" href="index.html">Back to the start</a></li>
 				<li><a style="color: #E4717A" href="life.html">The life of Lana Del Rey</a></li>
 				<li><a style="color: #E4717A" href="discography.html">Explore the discography of Lana Del Rey</a></li>
 <footer role="contentinfo">
