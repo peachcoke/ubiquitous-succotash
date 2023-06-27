@@ -147,7 +147,8 @@
 				<li><a style="color: #E4717A" href="life.html">The life of Lana Del Rey</a></li>
 				<li><a style="color: #E4717A" href="discography.html">Explore the discography of Lana Del Rey</a></li>
 <footer role="contentinfo">
-  <p> The text for this site was taken from <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
+	<p> </p>
+<p style="background-color:powderblue;"> The text for this site was taken from <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Lana_Del_Rey">Lana Del Rey's Wikipedia post</a>
     on <time>10 March 2022</time> under the <a style="color: #E4717A" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License.</a>
     Licensing terms of content from other sources (photos, etc.) is noted along with each respective resource.
   </p>
