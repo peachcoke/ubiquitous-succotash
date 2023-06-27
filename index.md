@@ -6,7 +6,7 @@
 	    <link rel="stylesheet" href="index.css" type=text/>
         <p style="color: #E4717A">This Text is pink!</p>
 </head>
-<body style=backgroznd-color:#ffddf4;">
+<body style="background-color:#ffddf4;">
     <main>
         <h1>Lana Del Rey</h1>
 <section id="Lana Del Rey">
