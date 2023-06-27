@@ -131,8 +131,8 @@
         She unfortunately deleted her other social media accounts, including twitter and her public instagram.
     </p>
     <figure id="fig-1">
-        <img scr="https://www.hawtcelebs.com/wp-content/uploads/2019/10/lana-del-rey-at-107.7-the-end-in-seattle-10-02-2019-10.jpg" alt=""
-            scrset="https://www.hawtcelebs.com/wp-content/uploads/2019/10/lana-del-rey-at-107.7-the-end-in-seattle-10-02-2019-10.jpg 1200w"
+        <img scr="Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg" alt=""
+            scrset="Lana-Del-Rey-visits-107-7-The-End-in-Seattle.jpg 1200w"
             sizes="(min-width:1200px) 600px 50%" alt="">
         <figcaption>
             <p><i class="person">Lana Del Rey</i> in <i class="location">Seattle</i>
