@@ -5,10 +5,6 @@
     href="https://en.wikipedia.org/wiki/Lana_Del_Rey">
         <p style="color: #E4717A">This Text is pink!</p>
 </head>
-    	<header role="banner" class="banner" id="banner" tabindex="-1">
-			<h1><a href="index.html">Lana Del Rey</a></h1>
-			<a id="nav-jump" href="#menu"><b class="hidden">Jump to the</b> Menu</a>
-		</header>
 <body>
     <main>
         <h1>Lana Del Rey</h1>
